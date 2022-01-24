@@ -1,5 +1,5 @@
 ## Hey, what's up? 
-### My name is Luiz and I'm a Full Stack Jr.
+### My name is Luiz and I'm a Jr developer.
 ### Web Development Student at Federal University of Technology of Paraná
 <div align="center">
   <a href="https://github.com/sschonss">
