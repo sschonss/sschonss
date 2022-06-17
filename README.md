@@ -1,5 +1,5 @@
 ## Hey, what's up? 
-### My name is Luiz and I'm a Jr Data Analyst | Back End Devolper.
+### My name is Luiz and I'm a Jr Data Analyst | Back End Developer.
 ### Web Development Student at Federal University of Technology of Paraná
 <div align="center">
   <a href="https://github.com/sschonss">
