@@ -8,51 +8,51 @@ Currently my focus is JAVA.
 
 I have knowledge in:
 
-PHP:
+### PHP:
 
 Development of web systems.
 Consume APIs. Intermediate knowledge.
 
-NodeJS:
+### NodeJS:
 
 Development of API's Rest with Express.
 
-Java:
+### Java:
 
 OOP.
 Knowledge of the main libraries.
 
-Python:
+### Python:
 
 Pandas, Matplot, Seaborn.
 Python for data science.
 Use of Jupyter Notebook and other tools like PowerBi, for example.
 
-Docker:
+### Docker:
 
 Creating containers and images.
 Using Docker Composer for container orchestration.
 
-Database:
+### Database:
 
 MySQL, MariaDB.
 Triggers, CRUD.
 Data processing.
 
-Scrum:
+### Scrum:
 
 Knowledge of agile project methodologies.
 
-Code versioning:
+### Code versioning:
 
 Knowledge in GIT.
 
-Linux:
+### Linux:
 
 Basic knowledge of Linux servers.
 Use of WSL2. I am passionate about GWSL (for study purposes only).
 
-English:
+### English:
 
 I have studied English for 5 years, completed the course at the Excellent Global School (200h), however I still attend classes to always seek to evolve.
 Advanced level of communication.
