@@ -57,6 +57,8 @@ Use of WSL2. I am passionate about GWSL (for study purposes only).
 I have studied English for 5 years, completed the course at the Excellent Global School (200h), however I still attend classes to always seek to evolve.
 Advanced level of communication.
 
+##
+
 <div align="center">
   <a href="https://github.com/sschonss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sschonss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -75,7 +77,6 @@ Advanced level of communication.
                                                                                                                                                 
  
   
-  ##
  
 <div> 
   <a href="https://www.linkedin.com/in/luiz-schons-9736231b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
