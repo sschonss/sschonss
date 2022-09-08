@@ -11,7 +11,7 @@ I have knowledge in:
 ### PHP:
 
 Development of web systems.
-Consume APIs. Intermediate knowledge.
+CAPIs.
 Laravel.
 
 ### NodeJS:
