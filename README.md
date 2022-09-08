@@ -4,7 +4,7 @@ Currently I have been studying Technology in Internet Systems, at the Federal Un
 
 I have been working as a Full Stack Jr Developer in projects with PHP, JS, Node, SQL, Docker and other languages.
 
-Currently my focus is Laravel.
+Currently my focus is Java.
 
 I have knowledge in:
 
