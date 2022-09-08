@@ -12,6 +12,7 @@ I have knowledge in:
 
 Development of web systems.
 Consume APIs. Intermediate knowledge.
+Laravel.
 
 ### NodeJS:
 
