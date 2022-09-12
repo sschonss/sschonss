@@ -4,7 +4,7 @@ Currently I have been studying Technology in Internet Systems, at the Federal Un
 
 I have been working as a Full Stack Jr Developer in projects with PHP, JS, Node, SQL, Docker and other languages.
 
-Currently my focus is Java.
+Currently my focus is Data Science.
 
 I have knowledge in:
 
