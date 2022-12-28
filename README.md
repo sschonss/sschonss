@@ -1,5 +1,8 @@
 ## Hey, what's up? 
 ### My name is Luiz Schons and I'm a back-end developer.
+
+[![wakatime](https://wakatime.com/badge/user/ea2ce668-385e-4c8f-b6b6-357ca697b6cd.svg)](https://wakatime.com/@ea2ce668-385e-4c8f-b6b6-357ca697b6cd)
+
 Currently I have been studying Technology in Internet Systems, at the Federal University of Technology of Paraná - UTFPR - in Guarapuava, Parana, Brazil.
 
 I have been working as a Full Stack Jr Developer in projects with PHP, JS, Node, SQL, Docker and other languages.
