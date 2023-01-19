@@ -1,6 +1,5 @@
 ## Hey, what's up? 
-### My name is Luiz Schons and I'm a back-end developer.
-[![wakatime](https://wakatime.com/badge/user/ea2ce668-385e-4c8f-b6b6-357ca697b6cd.svg)](https://wakatime.com/@ea2ce668-385e-4c8f-b6b6-357ca697b6cd)
+### My name is Luiz Schons and I'm a Data Analyst and Back-End Developer.
 
 Currently I have been studying Technology in Internet Systems, at the Federal University of Technology of Paraná - UTFPR - in Guarapuava, Parana, Brazil.
 
