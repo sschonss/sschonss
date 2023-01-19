@@ -38,9 +38,14 @@ Using Docker Composer for container orchestration.
 
 ### Database:
 
-MySQL, MariaDB.
+MySQL, MariaDB, MongoDB.
 Triggers, CRUD.
 Data processing.
+
+### Node-RED:
+
+Data capture with the main industrial protocols. 
+Integration with relational and non-relational databases.
 
 ### Scrum:
 
@@ -53,7 +58,7 @@ Knowledge in GIT.
 ### Linux:
 
 Basic knowledge of Linux servers.
-Use of WSL2. I am passionate about GWSL (for study purposes only).
+Use of WSL2. 
 
 ### English:
 
