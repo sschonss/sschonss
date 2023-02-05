@@ -1,70 +1,69 @@
-My name is Luiz Schons and I'm a Data Engineer and back-end developer.
+# My name is Luiz Schons and I'm a Data Engineer and back-end developer.
 
-Studying Technology in Internet Systems at the Federal University of Technology of Paraná - UTFPR - GP.
+### Studying Technology in Internet Systems at the Federal University of Technology of Paraná - UTFPR - GP.
 
 I work as a Data Engineer focused on Industry 4.0 and Back-end Developer, working on projects with PHP, Node, SQL, Docker, Python and other languages and tools.
 
 Currently my focus is on studies in Data Science.
 
-I have knowledge in:
+## I have knowledge in:
 
-PHP:
+### PHP:
 Development of web systems.
 API's.
 Laravel.
 
-Node JS :
+### Node JS :
 Rest API development with Express.
 Plots with ChartJS.
 
-Java:
+### Java:
 Object Oriented Programming.
 Basic knowledge in Spring Boot.
 
-Python:
+### Python:
 Use of Jupyter Notebook and other tools, such as PowerBi for example.
 Data transformation with Pandas.
 Machine Learning with Scikit-learn.
 Using Seaborn for data visualization.
 
-
-Docker:
+### Docker:
 Creating containers and images.
 Use of Docker Composer for container orchestration.
 
-Database:
+### Database:
 MySQL, MariaDB, PostgreSQL, MongoDB and others.
 Triggers, CRUD.
 Manipulation and processing of data.
 Using SQL for Data Science.
 
-Cloud:
+### Cloud:
 Basic knowledge in Azure.
 
-Node-RED:
+### Node-RED:
 Data capture with the main industrial protocols.
 Integration with relational and non-relational databases.
 Creating dashboards with Node-RED Dashboard.
 Communication with IoT devices and PLCs.
 
-Scrum:
+### Scrum:
 Knowledge of agile design methodologies.
 Project management.
 Teamwork and communication.
 
-Code versioning:
+### Code versioning:
 Knowledge in GIT.
 
-Linux:
+### Linux:
 Basic knowledge of Linux servers.
 Knowledge in Shell Script and Bash.
 
-English:
+### English:
 I've been studying English for over 5 years, completed the course at the Excellent Global School (200h), but I'm still attending to always seek to evolve.
 Advanced level.
 
-GitHub: https://github.com/sschonss
-Medium: https://medium.com/@schonsluuiz
+### GitHub: https://github.com/sschonss
+### Medium: https://medium.com/@schonsluuiz
 
 ##
 
