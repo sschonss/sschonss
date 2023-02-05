@@ -1,68 +1,70 @@
-## Hey, what's up? 
-### My name is Luiz Schons and I'm a Data Analyst and Back-End Developer.
+My name is Luiz Schons and I'm a Data Engineer and back-end developer.
 
-Currently I have been studying Technology in Internet Systems, at the Federal University of Technology of Paraná - UTFPR - in Guarapuava, Parana, Brazil.
+Studying Technology in Internet Systems at the Federal University of Technology of Paraná - UTFPR - GP.
 
-I have been working as a Full Stack Jr Developer in projects with PHP, JS, Node, SQL, Docker and other languages.
+I work as a Data Engineer focused on Industry 4.0 and Back-end Developer, working on projects with PHP, Node, SQL, Docker, Python and other languages and tools.
 
-Currently my focus is Data Science.
+Currently my focus is on studies in Data Science.
 
 I have knowledge in:
 
-### PHP:
-
+PHP:
 Development of web systems.
-APIs.
+API's.
 Laravel.
 
-### NodeJS:
+Node JS :
+Rest API development with Express.
+Plots with ChartJS.
 
-Development of API's Rest with Express.
+Java:
+Object Oriented Programming.
+Basic knowledge in Spring Boot.
 
-### Java:
+Python:
+Use of Jupyter Notebook and other tools, such as PowerBi for example.
+Data transformation with Pandas.
+Machine Learning with Scikit-learn.
+Using Seaborn for data visualization.
 
-OOP.
-Knowledge of the main libraries.
 
-### Python:
-
-Pandas, Matplot, Seaborn.
-Python for data science.
-Use of Jupyter Notebook and other tools like PowerBi, for example.
-
-### Docker:
-
+Docker:
 Creating containers and images.
-Using Docker Composer for container orchestration.
+Use of Docker Composer for container orchestration.
 
-### Database:
-
-MySQL, MariaDB, MongoDB.
+Database:
+MySQL, MariaDB, PostgreSQL, MongoDB and others.
 Triggers, CRUD.
-Data processing.
+Manipulation and processing of data.
+Using SQL for Data Science.
 
-### Node-RED:
+Cloud:
+Basic knowledge in Azure.
 
-Data capture with the main industrial protocols. 
+Node-RED:
+Data capture with the main industrial protocols.
 Integration with relational and non-relational databases.
+Creating dashboards with Node-RED Dashboard.
+Communication with IoT devices and PLCs.
 
-### Scrum:
+Scrum:
+Knowledge of agile design methodologies.
+Project management.
+Teamwork and communication.
 
-Knowledge of agile project methodologies.
-
-### Code versioning:
-
+Code versioning:
 Knowledge in GIT.
 
-### Linux:
-
+Linux:
 Basic knowledge of Linux servers.
-Use of WSL2. 
+Knowledge in Shell Script and Bash.
 
-### English:
+English:
+I've been studying English for over 5 years, completed the course at the Excellent Global School (200h), but I'm still attending to always seek to evolve.
+Advanced level.
 
-I have studied English for 5 years, completed the course at the Excellent Global School (200h), however I still attend classes to always seek to evolve.
-Advanced level of communication.
+GitHub: https://github.com/sschonss
+Medium: https://medium.com/@schonsluuiz
 
 ##
 
