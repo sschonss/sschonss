@@ -10,31 +10,40 @@ Currently my focus is on studies in Data Science.
 
 ### PHP:
 Development of web systems.
+
 API's.
+
 Laravel.
 
 ### Node JS :
 Rest API development with Express.
+
 Plots with ChartJS.
 
 ### Java:
 Object Oriented Programming.
-Basic knowledge in Spring Boot.
 
 ### Python:
 Use of Jupyter Notebook and other tools, such as PowerBi for example.
+
 Data transformation with Pandas.
+
 Machine Learning with Scikit-learn.
+
 Using Seaborn for data visualization.
 
 ### Docker:
 Creating containers and images.
+
 Use of Docker Composer for container orchestration.
 
 ### Database:
 MySQL, MariaDB, PostgreSQL, MongoDB and others.
+
 Triggers, CRUD.
+
 Manipulation and processing of data.
+
 Using SQL for Data Science.
 
 ### Cloud:
@@ -42,13 +51,18 @@ Basic knowledge in Azure.
 
 ### Node-RED:
 Data capture with the main industrial protocols.
+
 Integration with relational and non-relational databases.
+
 Creating dashboards with Node-RED Dashboard.
+
 Communication with IoT devices and PLCs.
 
 ### Scrum:
 Knowledge of agile design methodologies.
+
 Project management.
+
 Teamwork and communication.
 
 ### Code versioning:
@@ -56,10 +70,12 @@ Knowledge in GIT.
 
 ### Linux:
 Basic knowledge of Linux servers.
+
 Knowledge in Shell Script and Bash.
 
 ### English:
 I've been studying English for over 5 years, completed the course at the Excellent Global School (200h), but I'm still attending to always seek to evolve.
+
 Advanced level.
 
 ### GitHub: https://github.com/sschonss
