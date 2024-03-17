@@ -3,4 +3,3 @@ Back-end developer with a professional background in PHP, Laravel and Go. In add
 GitHub: https://github.com/sschonss
 Medium: https://medium.com/@schonsluuiz
 
-![Schons's GitHub stats](https://github-readme-stats.vercel.app/api?username=sschonss&count_private=true&show_icons=true&theme=transparent)
